@@ -6,5 +6,5 @@ User and Infrastructure will thrive to **communicate** and resolve issues togeth
 * **User** will clarify where they care in **notes**
 * References to **incidents** will be used in **notes**, and other way around
 * **infrastructure will be declarative** when possible and changes will automatically trigger notifications to **users who care**
-
+* Infrastructure will not change without a reference to the policy change. Policy as declared will be followed. 
 
