@@ -1,1 +1,0 @@
-# good-ops-practices
